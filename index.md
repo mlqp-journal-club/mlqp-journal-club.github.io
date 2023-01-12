@@ -21,7 +21,7 @@ The format is informal, and based on:
 
 * Nov 4th - Introductory tutorial (Markus)
 * Nov 11th - [Dynamics with autoregressive neural quantum states: application to critical quench dynamics](https://arxiv.org/abs/2209.03241) - *Wladi*
-* Nov 18th - [Neural tensor contractions and the expressive power of deep neural quantum states](https://arxiv.org/abs/2103.10293) - *Filippo?*
+* Nov 18th - [Neural tensor contractions and the expressive power of deep neural quantum states](https://arxiv.org/abs/2103.10293) - *Filippo*
 * Nov 25th - [Positive-definite parametrization of mixed quantum states with deep neural networks](https://arxiv.org/abs/2206.13488) - *Daniel*
 
 ### Pedagogical sessions: Normalizing flows
@@ -38,9 +38,9 @@ The format is informal, and based on:
 ### Reinforcement learning for control and optimization
 
 * Jan 6th - Introductory tutorial - *Marin*
-* Jan 13th - [Deep reinforcement learning for preparation of thermal and prethermal quantum states](https://arxiv.org/abs/2207.12656) - *Zala*
+* Jan 13th - [Gradient Ascent Pulse Engineering with Feedback](https://arxiv.org/abs/2203.04271) - *Nikkin*
 * Jan 20th - [Quantum Annealing for Neural Network optimization problems: a new approach via Tensor Network simulations](https://arxiv.org/abs/2208.14468) - *Sandeep*
-* Jan 27th - [Gradient Ascent Pulse Engineering with Feedback](https://arxiv.org/abs/2203.04271) - *Nikkin*
+* Jan 27th - [Deep reinforcement learning for preparation of thermal and prethermal quantum states](https://arxiv.org/abs/2207.12656) - *Zala*
 * Feb 3rd - [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4) - *Paul*
 * Feb 10th - TBA - *Mo*
 * Feb 17th - TBA - *Daniele*
