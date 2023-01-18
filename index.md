@@ -39,9 +39,9 @@ The format is informal, and based on:
 
 * Jan 6th - Introductory tutorial - *Marin*
 * Jan 13th - [Gradient Ascent Pulse Engineering with Feedback](https://arxiv.org/abs/2203.04271) - *Nikkin*
-* Jan 20th - [Quantum Annealing for Neural Network optimization problems: a new approach via Tensor Network simulations](https://arxiv.org/abs/2208.14468) - *Sandeep*
-* Jan 27th - [Deep reinforcement learning for preparation of thermal and prethermal quantum states](https://arxiv.org/abs/2207.12656) - *Zala*
-* Feb 3rd - [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4) - *Paul*
+* Jan 20th - [Deep reinforcement learning for preparation of thermal and prethermal quantum states](https://arxiv.org/abs/2207.12656) - *Zala*
+* Jan 27th - [Quantum Annealing for Neural Network optimization problems: a new approach via Tensor Network simulations](https://arxiv.org/abs/2208.14468) - *Pietro Torta*
+# * Feb 3rd - [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4) - *Paul*
 * Feb 10th - TBA - *Mo*
 * Feb 17th - TBA - *Daniele*
 
