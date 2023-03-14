@@ -15,34 +15,20 @@ The format is informal, and based on:
     * a paper suggested by the group
     * (parts of) a review/textbook as a tutorial
 
-## Schedule Winter 2022/23
+## Schedule Spring 2023
 
 ### Neural quantum states
 
-* Nov 4th - Introductory tutorial (Markus)
-* Nov 11th - [Dynamics with autoregressive neural quantum states: application to critical quench dynamics](https://arxiv.org/abs/2209.03241) - *Wladi*
-* Nov 18th - [Neural tensor contractions and the expressive power of deep neural quantum states](https://arxiv.org/abs/2103.10293) - *Filippo*
-* Nov 25th - [Positive-definite parametrization of mixed quantum states with deep neural networks](https://arxiv.org/abs/2206.13488) - *Daniel*
+* March 24 - [Deep learning for FRG](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.136402) - *kevinqg1[at]gmail*
+* March 31 - [Can neural quantum states learn volume-law ground states](https://arxiv.org/pdf/2212.02204.pdf) - *w.krinitsin[at]fz-juelich*
+* April 14 - [Preparing Quantum States by Measurement-feedback Control with Bayesian Optimization](https://arxiv.org/pdf/2212.02336.pdf) - *marting[at]kip.uni-heidelberg*
 
-### Pedagogical sessions: Normalizing flows
+### Pedagogical sessions: Transformer models
 
-* Dec 2nd - Tutorial 1: Introduction - *Moritz*
-    
-    following, e.g.:
-    * [Blogpost](https://hci.iwr.uni-heidelberg.de/vislearn/inverse-problems-invertible-neural-networks/)
-    * [Lecture](https://www.youtube.com/watch?v=JBb5sSC0JoY&ab_channel=PieterAbbeel), [(slides)](https://drive.google.com/file/d/1j-3ErOVr8gPLEbN6J4jBeO84I7CqQdde/view)
-    * Sections 1 and 2 of [review](https://jmlr.org/papers/volume22/19-1028/19-1028.pdf) 
-* Dec 9th - Tutorial 2: Sections 3, 4 of [review](https://jmlr.org/papers/volume22/19-1028/19-1028.pdf) - *Francesco*
-* Dec 16th - Tutorial 3: Exemplary applications, e.g. a selection of Section 6 of [review](https://jmlr.org/papers/volume22/19-1028/19-1028.pdf) - *Carlos*
-
-### Reinforcement learning for control and optimization
-
-* Jan 6th - Introductory tutorial - *Marin*
-* Jan 13th - [Gradient Ascent Pulse Engineering with Feedback](https://arxiv.org/abs/2203.04271) - *Nikkin*
-* Jan 20th - [Deep reinforcement learning for preparation of thermal and prethermal quantum states](https://arxiv.org/abs/2207.12656) - *Zala*
-* Jan 27th - [Quantum Annealing for Neural Network optimization problems: a new approach via Tensor Network simulations](https://arxiv.org/abs/2208.14468) - *Pietro Torta*
-# * Feb 3rd - [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4) - *Paul*
-* Feb 10th - TBA - *Mo*
-* Feb 17th - TBA - *Daniele*
+* April 21 - Tutorial 1: [Attention is all you need](https://arxiv.org/abs/1706.03762) - *s.cranganore[at]fz-juelich*
+* April 28 - Tutorial 2: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) - *aleksei.o.malyshev[at]gmail*
+* May 5 - [Attention-based quantum tomography](https://iopscience.iop.org/article/10.1088/2632-2153/ac362b) - *cabenavir[at]gmail*
+* May 12 - [Towards Neural Variational Monte Carlo That Scales Linearly with System Size](http://arxiv.org/abs/2212.11296) - *foyed068[at]uottawa*
+* May 19 - [Transformer variational wave functions for frustrated quantum spin systems](http://arxiv.org/abs/2211.05504) - *emanuele.costa[at]unicam*
 
 
