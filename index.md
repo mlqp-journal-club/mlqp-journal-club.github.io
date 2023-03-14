@@ -17,7 +17,7 @@ The format is informal, and based on:
 
 ## Schedule Spring 2023
 
-### Neural quantum states
+### First session on neural quantum states
 
 * March 24 - [Deep learning for FRG](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.136402) - *kevinqg1[at]gmail*
 * March 31 - [Can neural quantum states learn volume-law ground states](https://arxiv.org/pdf/2212.02204.pdf) - *w.krinitsin[at]fz-juelich*
@@ -31,4 +31,9 @@ The format is informal, and based on:
 * May 12 - [Towards Neural Variational Monte Carlo That Scales Linearly with System Size](http://arxiv.org/abs/2212.11296) - *foyed068[at]uottawa*
 * May 19 - [Transformer variational wave functions for frustrated quantum spin systems](http://arxiv.org/abs/2211.05504) - *emanuele.costa[at]unicam*
 
+### Second session on neural quantum states
 
+* May 26 - [Identifying optimal cycles in quantum thermal machines with reinforcement-learning](https://www.nature.com/articles/s41534-021-00512-0) - *p.erdman[at]fu-berlin*
+* June 2 - [Q-flow: Generative modeling for differential equations of open quantum dynamics with normalizing flows](https://arxiv.org/abs/2302.12235) - *moritz.reh[at]gmail*
+* June 9 - [Deep learning of many-body observables and quantum information scrambling](https://arxiv.org/abs/2302.04621), [Model-independent learning of quantum phases of matter with quantum convolutional neural networks](https://arxiv.org/abs/2211.11786) - *friederike.metz[at]epfl*
+* June 23 - Using Convolutional neural networks for classification and regression of eigenstates from 2-D spectra - *amishra[at]pks.mpg*
