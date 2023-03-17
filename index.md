@@ -20,7 +20,6 @@ The format is informal, and based on:
 ### First session on neural quantum states
 
 * March 24 - [Deep learning for FRG](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.136402) - *kevinqg1[at]gmail*
-* March 31 - [Can neural quantum states learn volume-law ground states](https://arxiv.org/pdf/2212.02204.pdf) - *w.krinitsin[at]fz-juelich*
 * April 14 - [Preparing Quantum States by Measurement-feedback Control with Bayesian Optimization](https://arxiv.org/pdf/2212.02336.pdf) - *marting[at]kip.uni-heidelberg*
 
 ### Pedagogical sessions: Transformer models
@@ -37,3 +36,4 @@ The format is informal, and based on:
 * June 2 - [Q-flow: Generative modeling for differential equations of open quantum dynamics with normalizing flows](https://arxiv.org/abs/2302.12235) - *moritz.reh[at]gmail*
 * June 9 - [Deep learning of many-body observables and quantum information scrambling](https://arxiv.org/abs/2302.04621), [Model-independent learning of quantum phases of matter with quantum convolutional neural networks](https://arxiv.org/abs/2211.11786) - *friederike.metz[at]epfl*
 * June 23 - Using Convolutional neural networks for classification and regression of eigenstates from 2-D spectra - *amishra[at]pks.mpg*
+* June 30 - [Can neural quantum states learn volume-law ground states](https://arxiv.org/pdf/2212.02204.pdf) - *w.krinitsin[at]fz-juelich*
