@@ -27,8 +27,6 @@ The format is informal, and based on:
 * April 21 - Tutorial 1: [Attention is all you need](https://arxiv.org/abs/1706.03762) - *s.cranganore[at]fz-juelich*
 * April 28 - Tutorial 2: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) - *aleksei.o.malyshev[at]gmail*
 * May 5 - [Attention-based quantum tomography](https://iopscience.iop.org/article/10.1088/2632-2153/ac362b) - *cabenavir[at]gmail*
-* May 12 - [Towards Neural Variational Monte Carlo That Scales Linearly with System Size](http://arxiv.org/abs/2212.11296) - *foyed068[at]uottawa*
-* May 19 - [Transformer variational wave functions for frustrated quantum spin systems](http://arxiv.org/abs/2211.05504) - *emanuele.costa[at]unicam*
 
 ### Second session on neural quantum states
 
@@ -37,3 +35,5 @@ The format is informal, and based on:
 * June 9 - [Deep learning of many-body observables and quantum information scrambling](https://arxiv.org/abs/2302.04621), [Model-independent learning of quantum phases of matter with quantum convolutional neural networks](https://arxiv.org/abs/2211.11786) - *friederike.metz[at]epfl*
 * June 23 - Using Convolutional neural networks for classification and regression of eigenstates from 2-D spectra - *amishra[at]pks.mpg*
 * June 30 - [Can neural quantum states learn volume-law ground states](https://arxiv.org/pdf/2212.02204.pdf) - *w.krinitsin[at]fz-juelich*
+* July 7 - [Towards Neural Variational Monte Carlo That Scales Linearly with System Size](http://arxiv.org/abs/2212.11296) - *foyed068[at]uottawa*
+* July 14 - [Transformer variational wave functions for frustrated quantum spin systems](http://arxiv.org/abs/2211.05504) - *emanuele.costa[at]unicam*
