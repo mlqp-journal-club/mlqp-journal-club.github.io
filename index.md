@@ -31,9 +31,10 @@ The format is informal, and based on:
 ### Second session on neural quantum states
 
 * May 26 - [Identifying optimal cycles in quantum thermal machines with reinforcement-learning](https://www.nature.com/articles/s41534-021-00512-0) - *p.erdman[at]fu-berlin*
-* June 2 - [Unbiasing time-dependent Variational Monte Carlo by projected quantum evolution](https://arxiv.org/pdf/2305.14294.pdf) - *moritz.reh[at]gmail*
+* June 2 - [A Self-Attention Ansatz for Ab-initio Quantum Chemistry](https://arxiv.org/abs/2211.13672)- *moritz.reh[at]gmail*
 * June 9 - [Deep learning of many-body observables and quantum information scrambling](https://arxiv.org/abs/2302.04621), [Model-independent learning of quantum phases of matter with quantum convolutional neural networks](https://arxiv.org/abs/2211.11786) - *friederike.metz[at]epfl*
 * June 23 - Using Convolutional neural networks for classification and regression of eigenstates from 2-D spectra - *amishra[at]pks.mpg*
 * June 30 - [Can neural quantum states learn volume-law ground states](https://arxiv.org/pdf/2212.02204.pdf) - *w.krinitsin[at]fz-juelich*
 * July 7 - [Towards Neural Variational Monte Carlo That Scales Linearly with System Size](http://arxiv.org/abs/2212.11296) - *foyed068[at]uottawa*
 * July 14 - [Transformer variational wave functions for frustrated quantum spin systems](http://arxiv.org/abs/2211.05504) - *emanuele.costa[at]unicam*
+* July 21 - [Unbiasing time-dependent Variational Monte Carlo by projected quantum evolution](https://arxiv.org/pdf/2305.14294.pdf) - *alessandro.sinibaldi[at]epfl*
