@@ -38,3 +38,4 @@ The format is informal, and based on:
 * July 7 - [Towards Neural Variational Monte Carlo That Scales Linearly with System Size](http://arxiv.org/abs/2212.11296) - *foyed068[at]uottawa*
 * July 14 - [Transformer variational wave functions for frustrated quantum spin systems](http://arxiv.org/abs/2211.05504) - *emanuele.costa[at]unicam*
 * July 21 - [Unbiasing time-dependent Variational Monte Carlo by projected quantum evolution](https://arxiv.org/pdf/2305.14294.pdf) - *alessandro.sinibaldi[at]epfl*
+* July 28 - [Tensor network algorithm for simulating experimental Gaussian boson sampling](https://arxiv.org/abs/2306.03709) - *rfazi034[at]uottawa*
