@@ -15,6 +15,15 @@ The format is informal, and based on:
     * a paper suggested by the group
     * (parts of) a review/textbook as a tutorial
 
+## Schedule WiSe 2023/24
+
+***TBA***
+
+
+
+
+<div style="page-break-after: always;"></div>
+
 ## Schedule Spring 2023
 
 ### First session on neural quantum states
