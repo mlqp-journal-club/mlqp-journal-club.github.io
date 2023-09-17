@@ -20,6 +20,11 @@ The format is informal, and based on:
 ***TBA***
 
 
+### Neural quantum states
+
+### Diffusion models
+
+### ML for Stat Mech and thermodynamics
 
 
 <div style="page-break-after: always;"></div>
