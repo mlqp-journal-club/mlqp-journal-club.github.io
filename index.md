@@ -17,14 +17,47 @@ The format is informal, and based on:
 
 ## Schedule WiSe 2023/24
 
-***TBA***
-
+We meet on Fridays at 4pm via zoom. Connection details are distributed via the mailing list.
 
 ### Neural quantum states
 
+**Oct 20:** ["Highly resolved spectral functions of two-dimensional systems with neural quantum states"](https://arxiv.org/abs/2303.08184) - Markus Schmitt
+
+**Oct 27:** [Solving Schrödinger Equation with a Language Model](https://arxiv.org/pdf/2307.09343.pdf) - Mo Abedi
+
+**Nov 3:** [Backflow Transformations via Neural Networks for Quantum Many-Body Wave-Functions](
+https://arxiv.org/abs/1807.10770) - avm2151
+
+**Nov 10:** [Autoregressive Neural TensorNet: Bridging Neural Networks
+and Tensor Networks for Quantum Many-Body Simulation](https://arxiv.org/pdf/2304.01996.pdf) - Friederike Metz
+
+**Nov 17:** [Empirical Sample Complexity of Neural Network Mixed State Reconstruction](https://arxiv.org/abs/2307.01840) - Zala Lenarcic
+
+**Nov 24:** t.b.d.
+
+**Dec 1:** t.b.d.
+
 ### Diffusion models
 
+**Dec 8:** Diffusion models tutorial 1 - Aleksei Malyshev
+
+**Dec 15:** Diffusion models tutorial 2 - V.V. Oganesyan
+
+**Jan 12:** Diffusion models tutorial 3 - Patrick Geraghty
+
+**Jan 19:** [Quantum-Noise-driven Generative Diffusion Models](https://arxiv.org/abs/2308.12013) - Gianluca Lagnese
+
 ### ML for Stat Mech and thermodynamics
+
+**Jan 26:** [Mutual Information, Neural Networks and the Renormalization Group](https://arxiv.org/abs/1704.06279) - Jonas Rigo
+
+**Feb 2:** [Compression theory for inhomogeneous systems](https://arxiv.org/abs/2301.11934) - Carlos
+
+**Feb 9:** [Mutual information of spin systems from autoregressive neural networks](https://arxiv.org/pdf/2304.13412.pdf) - Wladi Krinitisin
+
+**Feb 16:** t.b.d. - Paulo Erdman
+
+**Feb 23:** [Machine learning design of a trapped-ion quantum spin simulator](https://arxiv.org/abs/1910.02496) - Riza Fazili
 
 
 <div style="page-break-after: always;"></div>
