@@ -2,6 +2,8 @@
 
 This is an online journal club that discusses topics at the interface of machine learning and (quantum) physics.
 
+To subscribe to the mailing list, [follow this link](https://www-mailman.uni-regensburg.de/mailman/listinfo/mlqp-journal-club).
+
 ## Format
 
 The format is informal, and based on:
@@ -17,7 +19,7 @@ The format is informal, and based on:
 
 ## Schedule WiSe 2023/24
 
-We meet on Fridays at 4pm via zoom. Connection details are distributed via the mailing list.
+We meet on Fridays at 4pm (CEST; CET from November on) via zoom. Connection details are distributed via the [mailing list](https://www-mailman.uni-regensburg.de/mailman/listinfo/mlqp-journal-club).
 
 ### Neural quantum states
 
