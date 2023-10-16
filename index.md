@@ -28,7 +28,7 @@ We meet on Fridays at 4pm (CEST; CET from November on) via zoom. Connection deta
 **Oct 27:** [Solving Schrödinger Equation with a Language Model](https://arxiv.org/pdf/2307.09343.pdf) - Mo Abedi
 
 **Nov 3:** [Backflow Transformations via Neural Networks for Quantum Many-Body Wave-Functions](
-https://arxiv.org/abs/1807.10770) - avm2151
+https://arxiv.org/abs/1807.10770) - Ankit Mahajan
 
 **Nov 10:** [Autoregressive Neural TensorNet: Bridging Neural Networks
 and Tensor Networks for Quantum Many-Body Simulation](https://arxiv.org/pdf/2304.01996.pdf) - Friederike Metz
