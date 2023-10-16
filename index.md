@@ -35,9 +35,9 @@ and Tensor Networks for Quantum Many-Body Simulation](https://arxiv.org/pdf/2304
 
 **Nov 17:** [Empirical Sample Complexity of Neural Network Mixed State Reconstruction](https://arxiv.org/abs/2307.01840) - Zala Lenarcic
 
-**Nov 24:** t.b.d.
+**Nov 24:** [Efficient optimization of deep neural quantum states toward machine precision](https://arxiv.org/abs/2302.01941) - Ao Chen
 
-**Dec 1:** t.b.d.
+**Dec 1:** [Mean-field theories are simple for neural quantum states](https://arxiv.org/abs/2308.10934) - Fabian Ballar Trigueros
 
 ### Diffusion models
 
@@ -57,7 +57,7 @@ and Tensor Networks for Quantum Many-Body Simulation](https://arxiv.org/pdf/2304
 
 **Feb 9:** [Mutual information of spin systems from autoregressive neural networks](https://arxiv.org/pdf/2304.13412.pdf) - Wladi Krinitisin
 
-**Feb 16:** t.b.d. - Paulo Erdman
+**Feb 16:** t.b.d. - Paolo Erdman
 
 **Feb 23:** [Machine learning design of a trapped-ion quantum spin simulator](https://arxiv.org/abs/1910.02496) - Riza Fazili
 
