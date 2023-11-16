@@ -33,7 +33,7 @@ https://arxiv.org/abs/1807.10770) - Ankit Mahajan
 **Nov 10:** [Autoregressive Neural TensorNet: Bridging Neural Networks
 and Tensor Networks for Quantum Many-Body Simulation](https://arxiv.org/pdf/2304.01996.pdf) - Friederike Metz
 
-**Nov 17:** [Empirical Sample Complexity of Neural Network Mixed State Reconstruction](https://arxiv.org/abs/2307.01840) - Zala Lenarcic
+**Nov 17:** [Variational dynamics of open quantum systems in phase space](https://arxiv.org/abs/2307.07429) - Zala Lenarcic
 
 **Nov 24:** [Efficient optimization of deep neural quantum states toward machine precision](https://arxiv.org/abs/2302.01941) - Ao Chen
 
