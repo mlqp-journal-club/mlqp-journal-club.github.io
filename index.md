@@ -41,9 +41,9 @@ and Tensor Networks for Quantum Many-Body Simulation](https://arxiv.org/pdf/2304
 
 ### Diffusion models
 
-**Dec 8:** Diffusion models tutorial 1 - Aleksei Malyshev
+**Dec 8:** Diffusion models tutorial 1 - Viktor Oganesyan
 
-**Dec 15:** Diffusion models tutorial 2 - V.V. Oganesyan
+**Dec 15:** Diffusion models tutorial 2 - Viktor Oganesyan
 
 **Jan 12:** Diffusion models tutorial 3 - Patrick Geraghty
 
