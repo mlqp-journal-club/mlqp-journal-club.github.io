@@ -45,7 +45,7 @@ and Tensor Networks for Quantum Many-Body Simulation](https://arxiv.org/pdf/2304
 
 **Dec 15:** Diffusion models tutorial 2 - Viktor Oganesyan
 
-**Jan 12:** Diffusion models tutorial 3 - Patrick Geraghty
+**Jan 12:** *skipped*
 
 **Jan 19:** [Quantum-Noise-driven Generative Diffusion Models](https://arxiv.org/abs/2308.12013) - Gianluca Lagnese
 
@@ -58,8 +58,6 @@ and Tensor Networks for Quantum Many-Body Simulation](https://arxiv.org/pdf/2304
 **Feb 9:** [Mutual information of spin systems from autoregressive neural networks](https://arxiv.org/pdf/2304.13412.pdf) - Wladi Krinitisin
 
 **Feb 16:** t.b.d. - Paolo Erdman
-
-**Feb 23:** [Machine learning design of a trapped-ion quantum spin simulator](https://arxiv.org/abs/1910.02496) - Riza Fazili
 
 
 <div style="page-break-after: always;"></div>
