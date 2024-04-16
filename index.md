@@ -17,35 +17,35 @@ The format is informal, and based on:
 
 ## Schedule Summer 2024
 
-**New component this term:** Besides the presenter, a **devil's advocate** is assigned to each paper. The job is to pose 2-3 critical questions at the end of the presentation, in order to kick off the discussion.
+**New component this term:** Besides the presenter, a **devil's advocate** is assigned to each paper. The job is to pose 2-3 critical questions at the end of the presentation, in order to kick off the discussion. The advocates are listed in parenthesis below.
 
 We meet on Fridays at 4pm (CEST; CET from November on) via zoom. Connection details are distributed via the [mailing list](https://www-mailman.uni-regensburg.de/mailman/listinfo/mlqp-journal-club).
 
-**Apr 26:** [Model-Free Quantum Control with Reinforcement Learning](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.011059) - Giovanni Cemin (Felix Motzoi)
+**Apr 26:** [Model-Free Quantum Control with Reinforcement Learning](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.011059) - Giovanni Cemin *(Felix Motzoi)*
 
-**May 3:** [Reinforcement learning decoders for fault-tolerant quantum computation](https://iopscience.iop.org/article/10.1088/2632-2153/abc609) - Chris Hooley (Marin Bukov)
+**May 3:** [Reinforcement learning decoders for fault-tolerant quantum computation](https://iopscience.iop.org/article/10.1088/2632-2153/abc609) - Chris Hooley *(Marin Bukov)*
 
-**May 10:** [Real-time quantum error correction beyond break-even](https://www.nature.com/articles/s41586-023-05782-6) - Felix Motzoi (Manuel Guatto)
+**May 10:** [Real-time quantum error correction beyond break-even](https://www.nature.com/articles/s41586-023-05782-6) - Felix Motzoi *(Manuel Guatto)*
 
-**May 17:** [Learning to Decode the Surface Code with a Recurrent, Transformer-Based Neural Network](https://arxiv.org/abs/2310.05900) - Adrien Kahn (Markus Schmitt)
+**May 17:** [Learning to Decode the Surface Code with a Recurrent, Transformer-Based Neural Network](https://arxiv.org/abs/2310.05900) - Adrien Kahn *(Markus Schmitt)*
 
-**May 24:** [Neural Decoder for Topological Codes](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.030501) - Rajah Nutakki (Giovanni Cemin)
+**May 24:** [Neural Decoder for Topological Codes](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.030501) - Rajah Nutakki *(Giovanni Cemin)*
 
-**May 31:** [Retrieving non-stabilizerness with Neural Networks](https://arxiv.org/pdf/2403.00919.pdf) - Wladi Krinitsin (Chris Hooley)
+**May 31:** [Retrieving non-stabilizerness with Neural Networks](https://arxiv.org/pdf/2403.00919.pdf) - Wladi Krinitsin *(Chris Hooley)*
 
 **June 7:** [Hybrid discrete-continuous compilation of trapped-ion quantum circuits with deep reinforcement learning](https://arxiv.org/abs/2307.05744) - Francesco Preti
 
-**June 14:** [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) - Martina Jung (Marc Machaczek)
+**June 14:** [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) - Martina Jung *(Marc Machaczek)*
 
-**June 21:** [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895) - Aleksei Malyshev (Fabian Ballar)
+**June 21:** [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895) - Aleksei Malyshev *(Fabian Ballar)*
 
 **June 28:** [Operator Learning Renormalization Group (I)](https://arxiv.org/abs/2403.03199) - Patrick Lenggenhager 
 
-**July 5:** [Operator Learning Renormalization Group (II)](https://arxiv.org/abs/2403.03199) - Jonas Rigo (Carlos Benavides)
+**July 5:** [Operator Learning Renormalization Group (II)](https://arxiv.org/abs/2403.03199) - Jonas Rigo *(Carlos Benavides)*
 
-**July 12:** [Flow-based generative models for Markov chain Monte Carlo in lattice field theory](https://arxiv.org/abs/1904.12072) - Ao Chen (Martina Jung)
+**July 12:** [Flow-based generative models for Markov chain Monte Carlo in lattice field theory](https://arxiv.org/abs/1904.12072) - Ao Chen *(Martina Jung)*
 
-**July 19:** [Spin-1/2 kagome Heisenberg antiferromagnet: Machine learning discovery of the spinon pair density wave ground state](https://arxiv.org/pdf/2401.02866.pdf) - Roeland Wiersema (Rajah Nutakki)
+**July 19:** [Spin-1/2 kagome Heisenberg antiferromagnet: Machine learning discovery of the spinon pair density wave ground state](https://arxiv.org/pdf/2401.02866.pdf) - Roeland Wiersema *(Rajah Nutakki)*
 
 
 ## Schedule WiSe 2023/24
