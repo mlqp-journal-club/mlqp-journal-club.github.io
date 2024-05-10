@@ -25,7 +25,7 @@ We meet on Fridays at 4pm (CEST; CET from November on) via zoom. Connection deta
 
 **May 3:** [Reinforcement learning decoders for fault-tolerant quantum computation](https://iopscience.iop.org/article/10.1088/2632-2153/abc609) - Chris Hooley *(Marin Bukov)*
 
-**May 10:** [Real-time quantum error correction beyond break-even](https://www.nature.com/articles/s41586-023-05782-6) - Felix Motzoi *(Manuel Guatto)*
+**May 10:** [Real-time quantum error correction beyond break-even](https://www.nature.com/articles/s41586-023-05782-6) - Manuel Guatto *(??)*
 
 **May 17:** [Learning to Decode the Surface Code with a Recurrent, Transformer-Based Neural Network](https://arxiv.org/abs/2310.05900) - Adrien Kahn *(Markus Schmitt)*
 
