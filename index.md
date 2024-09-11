@@ -2,7 +2,7 @@
 
 This is an online journal club that discusses topics at the interface of machine learning and (quantum) physics.
 
-To subscribe to the mailing list, [follow this link](https://www-mailman.uni-regensburg.de/mailman/listinfo/mlqp-journal-club).
+To subscribe to the mailing list, [follow this link](https://www.listserv.dfn.de/sympa/subscribe/mlqp-journal-club?previous_action=info).
 
 ## Format
 
