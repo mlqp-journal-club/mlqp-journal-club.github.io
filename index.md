@@ -7,7 +7,7 @@ To subscribe to the mailing list, [follow this link](https://www.listserv.dfn.de
 ## Format
 
 The format is informal, and based on:
-* 1-hour long weekly meetings (date to be determined)
+* 1-hour long weekly meetings, Fridays at 4pm
 * weekly presentations are given by: 
     * invited external speakers (students/postdocs with interesting preprints)
     * internal speakers: students/postdocs from the group to present
@@ -15,7 +15,16 @@ The format is informal, and based on:
     * a paper suggested by the group
     * (parts of) a review/textbook as a tutorial
 
-## Schedule Summer 2024
+## Current schedule (Winter 2024/25)
+
+TBA
+
+## History
+- [Summer 2024](#summer-2024)
+- [Winter 2023/24](#winter-2023/24)
+- [Summer 2023](#summer-2023)
+
+## Summer 2024
 
 **New component this term:** Besides the presenter, a **devil's advocate** is assigned to each paper. The job is to pose 2-3 critical questions at the end of the presentation, in order to kick off the discussion. The advocates are listed in parenthesis below.
 
@@ -48,7 +57,7 @@ We meet on Fridays at 4pm (CEST; CET from November on) via zoom. Connection deta
 **July 19:** [Spin-1/2 kagome Heisenberg antiferromagnet: Machine learning discovery of the spinon pair density wave ground state](https://arxiv.org/pdf/2401.02866.pdf) - Roeland Wiersema *(Rajah Nutakki)*
 
 
-## Schedule WiSe 2023/24
+## Winter 2023/24
 
 We meet on Fridays at 4pm (CEST; CET from November on) via zoom. Connection details are distributed via the [mailing list](https://www-mailman.uni-regensburg.de/mailman/listinfo/mlqp-journal-club).
 
@@ -93,7 +102,7 @@ and Tensor Networks for Quantum Many-Body Simulation](https://arxiv.org/pdf/2304
 
 <div style="page-break-after: always;"></div>
 
-## Schedule Spring 2023
+## Summer 2023
 
 ### First session on neural quantum states
 
