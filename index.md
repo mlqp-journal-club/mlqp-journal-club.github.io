@@ -17,7 +17,7 @@ The format is informal, and based on:
 
 ## Current schedule (Winter 2024/25)
 
-TBA
+[Participate in our poll to help shape the upcoming term's program!](https://forms.gle/J7gvFcctePQyQw9t6).
 
 ## History
 - [Summer 2024](#summer-2024)
