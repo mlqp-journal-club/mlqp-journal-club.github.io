@@ -32,7 +32,7 @@ The format is informal, and based on:
 
 **Dec 6:** *Tutorial 1* [Kolmogorov-Arnold networks](https://arxiv.org/pdf/2404.19756) - *Presenter:* Attila
 
-**Dec 13:** *Tutorial 2* [Kolmogorov-Arnold networks](https://arxiv.org/pdf/2404.19756) - *Presenter:* Hans
+**Dec 13:** *Tutorial 2* [Kolmogorov-Arnold networks](https://arxiv.org/pdf/2404.19756) - *Presenter:* Aleksei
 
 **Jan 10:** [Accurate Learning of Equivariant Quantum Systems from a Single Ground State](https://arxiv.org/abs/2405.12309) - *Presenter:* Paul / *Devil's advocate:* Aleksei
 
