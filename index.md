@@ -8,6 +8,7 @@ To subscribe to the mailing list, [follow this link](https://www.listserv.dfn.de
 
 The format is informal, and based on:
 * 1-hour long weekly meetings, Fridays at 4pm
+* Besides the presenter, a **devil's advocate** is assigned to each paper. The job is to pose 2-3 critical questions at the end of the presentation, in order to kick off the discussion.
 * weekly presentations are given by: 
     * invited external speakers (students/postdocs with interesting preprints)
     * internal speakers: students/postdocs from the group to present
@@ -17,7 +18,32 @@ The format is informal, and based on:
 
 ## Current schedule (Winter 2024/25)
 
-[Participate in our poll to help shape the upcoming term's program!](https://forms.gle/J7gvFcctePQyQw9t6).
+**Oct 18:** [Learning eigenstates of quantum many-body Hamiltonians within the symmetric subspaces using neural network quantum states](https://arxiv.org/pdf/2407.20065) - *Presenter:* Adrien / *Devil's advocate:* Ahmedeo
+
+**Oct 25:** [Accurate neural quantum states for interacting lattice bosons](https://arxiv.org/abs/2404.07869) - *Presenter:* Viktor / *Devil's advocate:* Giovanni
+
+**Nov 8:** [Tensor Network Computations That Capture Strict Variationality, Volume Law Behavior, and the Efficient Representation of Neural Network States](https://arxiv.org/abs/2405.03797) *Presenter:* Hans / *Devil's advocate:* Rajah
+
+**Nov 15:** [Approximately-symmetric neural networks for quantum spin liquids](https://arxiv.org/abs/2405.17541) - *Presenter:* Rajah / *Devil's advocate:* Viktor
+
+**Nov 22:** [Vision Transformer Neural Quantum States for Impurity Models](https://arxiv.org/pdf/2408.13050) - *Presenter:* Ahmedeo / *Devil's advocate:* Francesca
+
+**Nov 29:** [Machine learning-based compression of quantum many body physics: PCA and autoencoder representation of the vertex function](https://arxiv.org/abs/2403.15372) - *Presenter:* Ege / *Devil's advocate:* Patrick
+
+**Dec 6:** *Tutorial 1* [Kolmogorov-Arnold networks](https://arxiv.org/pdf/2404.19756) - *Presenter:* Attila
+
+**Dec 13:** *Tutorial 2* [Kolmogorov-Arnold networks](https://arxiv.org/pdf/2404.19756) - *Presenter:* Hans
+
+**Jan 10:** [Accurate Learning of Equivariant Quantum Systems from a Single Ground State](https://arxiv.org/abs/2405.12309) - *Presenter:* Paul / *Devil's advocate:* Aleksei
+
+**Jan 17:** [Attention to Quantum Complexity](https://arxiv.org/abs/2405.11632) - *Presenter:* Francesco / *Devil's advocate:* Martina
+
+**Jan 24:** [Measurement-based quantum machine learning](https://arxiv.org/abs/2405.08319) - *Presenter:* Fabian / *Devil's advocate:* Francesco
+
+**Jan 31:** [The statistical mechanics and machine learning of the α-Rényi ensemble](https://arxiv.org/abs/2404.04005) - *Presenter:* Francesca / *Devil's advocate:* Fabian
+
+**Feb 7:** [Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements](https://arxiv.org/pdf/2407.04673) - *Presenter:* Onurcan / *Devil's advocate:* Patrick
+
 
 ## History
 - [Summer 2024](#summer-2024)
