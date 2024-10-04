@@ -18,15 +18,15 @@ The format is informal, and based on:
 
 ## Current schedule (Winter 2024/25)
 
-**Oct 18:** [Learning eigenstates of quantum many-body Hamiltonians within the symmetric subspaces using neural network quantum states](https://arxiv.org/pdf/2407.20065) - *Presenter:* Adrien / *Devil's advocate:* Ahmedeo
+**Oct 18:** [Learning eigenstates of quantum many-body Hamiltonians within the symmetric subspaces using neural network quantum states](https://arxiv.org/pdf/2407.20065) - *Presenter:* Adrien / *Devil's advocate:* Ahmedeo, Ege
 
 **Oct 25:** [Accurate neural quantum states for interacting lattice bosons](https://arxiv.org/abs/2404.07869) - *Presenter:* Viktor / *Devil's advocate:* Giovanni
 
 **Nov 8:** [Tensor Network Computations That Capture Strict Variationality, Volume Law Behavior, and the Efficient Representation of Neural Network States](https://arxiv.org/abs/2405.03797) *Presenter:* Hans / *Devil's advocate:* Rajah
 
-**Nov 15:** [Approximately-symmetric neural networks for quantum spin liquids](https://arxiv.org/abs/2405.17541) - *Presenter:* Rajah / *Devil's advocate:* Viktor
+**Nov 15:** [Approximately-symmetric neural networks for quantum spin liquids](https://arxiv.org/abs/2405.17541) - *Presenter:* Rajah / *Devil's advocate:* Viktor, Onurcan
 
-**Nov 22:** [Vision Transformer Neural Quantum States for Impurity Models](https://arxiv.org/pdf/2408.13050) - *Presenter:* Ahmedeo / *Devil's advocate:* Francesca
+**Nov 22:** [Vision Transformer Neural Quantum States for Impurity Models](https://arxiv.org/pdf/2408.13050) - *Presenter:* Ahmedeo / *Devil's advocate:* Francesca, Jonas
 
 **Nov 29:** [Machine learning-based compression of quantum many body physics: PCA and autoencoder representation of the vertex function](https://arxiv.org/abs/2403.15372) - *Presenter:* Ege / *Devil's advocate:* Patrick
 
@@ -34,9 +34,9 @@ The format is informal, and based on:
 
 **Dec 13:** *Tutorial 2* [Kolmogorov-Arnold networks](https://arxiv.org/pdf/2404.19756) - *Presenter:* Aleksei
 
-**Jan 10:** [Accurate Learning of Equivariant Quantum Systems from a Single Ground State](https://arxiv.org/abs/2405.12309) - *Presenter:* Paul / *Devil's advocate:* Aleksei
+**Jan 10:** [Accurate Learning of Equivariant Quantum Systems from a Single Ground State](https://arxiv.org/abs/2405.12309) - *Presenter:* Paul / *Devil's advocate:* Aleksei, Adrien
 
-**Jan 17:** [Attention to Quantum Complexity](https://arxiv.org/abs/2405.11632) - *Presenter:* Francesco / *Devil's advocate:* Martina
+**Jan 17:** [Attention to Quantum Complexity](https://arxiv.org/abs/2405.11632) - *Presenter:* Francesco / *Devil's advocate:* Martina, Mo
 
 **Jan 24:** [Measurement-based quantum machine learning](https://arxiv.org/abs/2405.08319) - *Presenter:* Fabian / *Devil's advocate:* Francesco
 
