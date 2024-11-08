@@ -26,9 +26,9 @@ The format is informal, and based on:
 
 **Nov 15:** [Approximately-symmetric neural networks for quantum spin liquids](https://arxiv.org/abs/2405.17541) - *Presenter:* Rajah / *Devil's advocate:* Viktor, Onurcan
 
-**Nov 22:** [Vision Transformer Neural Quantum States for Impurity Models](https://arxiv.org/pdf/2408.13050) - *Presenter:* Ahmedeo / *Devil's advocate:* Francesca, Jonas
+**Nov 22:** [Machine learning-based compression of quantum many body physics: PCA and autoencoder representation of the vertex function](https://arxiv.org/abs/2403.15372) - *Presenter:* Ege / *Devil's advocate:* Patrick
 
-**Nov 29:** [Machine learning-based compression of quantum many body physics: PCA and autoencoder representation of the vertex function](https://arxiv.org/abs/2403.15372) - *Presenter:* Ege / *Devil's advocate:* Patrick
+**Nov 29:** [Vision Transformer Neural Quantum States for Impurity Models](https://arxiv.org/pdf/2408.13050) - *Presenter:* Ahmedeo / *Devil's advocate:* Francesca, Jonas
 
 **Dec 6:** *Tutorial 1* [Kolmogorov-Arnold networks](https://arxiv.org/pdf/2404.19756) - *Presenter:* Attila
 
