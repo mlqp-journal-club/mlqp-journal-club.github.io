@@ -16,7 +16,72 @@ The format is informal, and based on:
     * a paper suggested by the group
     * (parts of) a review/textbook as a tutorial
 
-## Current schedule (Winter 2024/25)
+## Current schedule (Summer 2025)
+
+**Apr 25**
+[Tackling Decision Processes with Non-Cumulative Objectives using Reinforcement Learning](https://arxiv.org/abs/2405.13609)
+*Presenter:* Hans / *Devil's advocate:* Oleksii
+
+**May 2**
+[Reinforcement learning to learn quantum states for Heisenberg scaling accuracy](https://arxiv.org/pdf/2412.02334)
+*Presenter:* Paul / *Devil's advocate:* Giovanni
+
+**May 9**
+[Artificially intelligent Maxwell's demon for optimal control of open quantum systems](http://arxiv.org/abs/2408.15328)
+*Presenter:* Mo / *Devil's advocate:* Patrick
+
+**May 16**
+[Scaling the Automated Discovery of Quantum Circuits via Reinforcement Learning with Gadgets](https://arxiv.org/abs/2503.11638)
+*Presenter:* Giovanni / *Devil's advocate:* Antoine
+
+**May 23**
+Graph NNs, A General Introduction 1: https://distill.pub/2021/gnn-intro/, https://gnn.seas.upenn.edu/, https://arxiv.org/abs/1806.01261
+*Presenter:* Martina
+
+**May 30**
+[Graph NNs applications: Gauging tensor networks with belief propagation](https://arxiv.org/abs/2306.17837)
+*Presenter:* Wladi / *Devil's advocate:* Hans
+
+**Jun 6**
+[Local minima in quantum systems](https://www.nature.com/articles/s41567-025-02781-4)
+*Presenter:* Marc / *Devil's advocate:* Martina
+
+**Jun 13**
+[Universal scaling laws in quantum-probabilistic machine learning by tensor network towards interpreting representation and generalization powers](https://arxiv.org/abs/2410.09703)
+*Presenter:* Patrick / *Devil's advocate:* Wladi
+
+**Jun 20**
+[A learning-based approach to characterization of open quantum systems](https://arxiv.org/abs/2501.05350)
+*Presenter:* Noe / *Devil's advocate:* Paul
+
+**Jun 27**
+[Provably efficient machine learning for quantum many-body problems](https://www.science.org/doi/10.1126/science.abk3333)
+*Presenter:* Oleksii / *Devil's advocate:* tbd
+
+**Jul 4**
+[Foundation Neural-Network Quantum States](https://arxiv.org/abs/2502.09488)
+*Presenter:* Adrien / *Devil's advocate:* Noe
+
+**Jul 11**
+[Many-body dynamics with explicitly time-dependent neural quantum states](https://arxiv.org/abs/2412.11830)
+*Presenter:* Kadir / *Devil's advocate:* Adrien
+
+**Jul 18**
+[Efficient Optimization of Variational Autoregressive Networks with Natural Gradient](https://arxiv.org/abs/2409.20029)
+*Presenter:* Antoine / *Devil's advocate:* Kadir
+
+**Jul 25**
+[Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schrödinger Equation](https://arxiv.org/abs/2307.07050)
+*Presenter:* Rajah / *Devil's advocate:* Mo
+
+
+## History
+- [Winter 2024/35](#winter-2024/25)
+- [Summer 2024](#summer-2024)
+- [Winter 2023/24](#winter-2023/24)
+- [Summer 2023](#summer-2023)
+
+## Winter 2024/25
 
 **Oct 18:** [Learning eigenstates of quantum many-body Hamiltonians within the symmetric subspaces using neural network quantum states](https://arxiv.org/pdf/2407.20065) - *Presenter:* Adrien / *Devil's advocate:* Ahmedeo, Ege
 
@@ -43,12 +108,6 @@ The format is informal, and based on:
 **Jan 31:** [The statistical mechanics and machine learning of the α-Rényi ensemble](https://arxiv.org/abs/2404.04005) - *Presenter:* Francesca / *Devil's advocate:* Fabian
 
 **Feb 7:** [Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements](https://arxiv.org/pdf/2407.04673) - *Presenter:* Onurcan / *Devil's advocate:* Patrick
-
-
-## History
-- [Summer 2024](#summer-2024)
-- [Winter 2023/24](#winter-2023/24)
-- [Summer 2023](#summer-2023)
 
 ## Summer 2024
 
