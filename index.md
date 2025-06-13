@@ -51,12 +51,12 @@ Graph NNs, A General Introduction 1: https://distill.pub/2021/gnn-intro/, https:
 <br>*Presenter:* Patrick / *Devil's advocate:* Wladi
 
 **Jun 20**
-[A learning-based approach to characterization of open quantum systems](https://arxiv.org/abs/2501.05350)
-<br>*Presenter:* Noe / *Devil's advocate:* Paul
-
-**Jun 27**
 [Provably efficient machine learning for quantum many-body problems](https://www.science.org/doi/10.1126/science.abk3333)
 <br>*Presenter:* Oleksii / *Devil's advocate:* tbd
+
+**Jun 27**
+[A learning-based approach to characterization of open quantum systems](https://arxiv.org/abs/2501.05350)
+<br>*Presenter:* Noe / *Devil's advocate:* Paul
 
 **Jul 4**
 [Foundation Neural-Network Quantum States](https://arxiv.org/abs/2502.09488)
