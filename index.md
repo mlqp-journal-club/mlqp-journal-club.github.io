@@ -16,7 +16,69 @@ The format is informal, and based on:
     * a paper suggested by the group
     * (parts of) a review/textbook as a tutorial
 
-## Current schedule (Summer 2025)
+## Current schedule (Winter 2025/26)
+
+**Oct 24**
+[]()
+<br>*Presenter:* / *Devil's advocate:*
+
+**Nov 7**
+[]()
+<br>*Presenter:* / *Devil's advocate:*
+
+**Nov 14**
+[Accurate Computation of Quantum Excited States with Neural Networks](https://arxiv.org/abs/2308.16848)
+<br>*Presenter:*  / *Devil's advocate:*
+
+**Nov 21**
+[Variational subspace methods and application to improving variational Monte Carlo dynamics](https://arxiv.org/abs/2507.08930)
+<br>*Presenter:* Adrien / *Devil's advocate:*
+
+**Nov 28**
+[Grassmann Variational Monte Carlo with neural wave functions](https://arxiv.org/abs/2507.10287)
+<br>*Presenter:* Douglas / *Devil's advocate:*
+
+**Dec 5**
+[]()
+<br>*Presenter:* / *Devil's advocate:*
+
+**Dec 12**
+[]()
+<br>*Presenter:* / *Devil's advocate:*
+
+**Dec 19**
+[]()
+<br>*Presenter:* / *Devil's advocate:*
+
+**Jan 9**
+[]()
+<br>*Presenter:* / *Devil's advocate:*
+
+**Jan 16**
+[]()
+<br>*Presenter:* / *Devil's advocate:*
+
+**Jan 23**
+[]()
+<br>*Presenter:* / *Devil's advocate:*
+
+**Jan 30**
+[]()
+<br>*Presenter:* / *Devil's advocate:*
+
+**Feb 6**
+[]()
+<br>*Presenter:* / *Devil's advocate:*
+
+
+## History
+- [Summer 2025](#summer-2025)
+- [Winter 2024/35](#winter-2024/25)
+- [Summer 2024](#summer-2024)
+- [Winter 2023/24](#winter-2023/24)
+- [Summer 2023](#summer-2023)
+
+## Summer 2025
 
 **Apr 25**
 [Tackling Decision Processes with Non-Cumulative Objectives using Reinforcement Learning](https://arxiv.org/abs/2405.13609)
@@ -73,13 +135,6 @@ Graph NNs, A General Introduction 1: https://distill.pub/2021/gnn-intro/, https:
 **Jul 25**
 [Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schrödinger Equation](https://arxiv.org/abs/2307.07050)
 <br>*Presenter:* Rajah / *Devil's advocate:* Mo
-
-
-## History
-- [Winter 2024/35](#winter-2024/25)
-- [Summer 2024](#summer-2024)
-- [Winter 2023/24](#winter-2023/24)
-- [Summer 2023](#summer-2023)
 
 ## Winter 2024/25
 
