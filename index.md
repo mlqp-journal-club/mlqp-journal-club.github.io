@@ -21,34 +21,34 @@ The format is informal, and based on:
 
 **Oct 24**
 [Quantum Engineering of Qudits with Interpretable Machine Learning](https://arxiv.org/pdf/2506.13075 )
-<br>*Presenter:* / *Devil's advocate:* Martina | Oleksii, Mo, Noe
+<br>*Presenter:* Martina / *Devil's advocate:* Mo, Oleksii
 
 **Oct 31**
 *No journal club; Happy Halloween!*
 
 **Nov 7**
 [Learning interactions between Rydberg atoms](https://journals.aps.org/prxquantum/abstract/10.1103/f58h-zxs3)
-<br>*Presenter:* / *Devil's advocate:* Yifan, Antoine, Mykola
+<br>*Presenter:* Yifan / *Devil's advocate:* Mykola
 
 **Nov 14**
 [Accurate Computation of Quantum Excited States with Neural Networks](https://arxiv.org/abs/2308.16848)
-<br>*Presenter:*  / *Devil's advocate:*  Mykola, Attila, Antoine, Oleksii
+<br>*Presenter:* Attila / *Devil's advocates:* Adrien, Douglas 
 
 **Nov 21**
 [Variational subspace methods and application to improving variational Monte Carlo dynamics](https://arxiv.org/abs/2507.08930)
-<br>*Presenter:* Adrien / *Devil's advocate:*
+<br>*Presenter:* Adrien
 
 **Nov 28**
 [Grassmann Variational Monte Carlo with neural wave functions](https://arxiv.org/abs/2507.10287)
-<br>*Presenter:* Douglas / *Devil's advocate:*
+<br>*Presenter:* Douglas
 
 **Dec 5**
 [Adaptive Neural Quantum States: A Recurrent Neural Network Perspective](https://arxiv.org/abs/2507.18700)
-<br>*Presenter:* Kedir / *Devil's advocate:* Wladi, Noe, Yifan, Antoine, Moksh
+<br>*Presenter:* Kedir / *Devil's advocate:* Wladi, Noe
 
 **Dec 12**
 [Neural Network-Augmented Pfaffian Wave-functions for Scalable Simulations of Interacting Fermions](https://arxiv.org/abs/2507.10705)
-<br>*Presenter:* / *Devil's advocate:* Olekiss, Adrien, Antoine
+<br>*Presenter:* Antoine / *Devil's advocate:* Adrien 
 
 **Dec 19**
 *No journal club; Merry Christmas!*
@@ -58,19 +58,19 @@ The format is informal, and based on:
 
 **Jan 16**
 [Adversarial Policies Beat Superhuman Go AIs](https://arxiv.org/abs/2211.00241)
-<br>*Presenter:* / *Devil's advocate:* Giovanni, Noe, Moksh
+<br>*Presenter:* Moksh / *Devil's advocate:* Giovanni
 
 **Jan 23**
 [Breaking Through Barren Plateaus: Reinforcement Learning Initializations for Deep Variational Quantum Circuits](https://arxiv.org/pdf/2508.18514)
-<br>*Presenter:* / *Devil's advocate:* Giovanni, Yufan, Antoine, Moksh
+<br>*Presenter:* Giovanni / *Devil's advocate:* Moksh
 
 **Jan 30**
 [Dynamics of disordered quantum systems with two- and three-dimensional tensor networks](https://arxiv.org/abs/2503.05693)
-<br>*Presenter:* / *Devil's advocate:* Oleksii, Wladi, Giovanni, Attila
+<br>*Presenter:* Wladi / *Devil's advocate:* Attila
 
 **Feb 6**
 [Fourier Neural Operators for Time-Periodic Quantum Systems: Learning Floquet Hamiltonians, Observable Dynamics, and Operator Growth](https://arxiv.org/pdf/2509.07084)
-<br>*Presenter:* / *Devil's advocate:* Oleksii, Noe, Mykola, Moksh, 
+<br>*Presenter:* Noe / *Devil's advocate:* Oleksii
 
 
 ## History
