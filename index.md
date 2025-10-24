@@ -4,6 +4,8 @@ This is an online journal club that discusses topics at the interface of machine
 
 To subscribe to the mailing list, [follow this link](https://www.listserv.dfn.de/sympa/subscribe/mlqp-journal-club?previous_action=info).
 
+If you have suggestions for papers we could discuss, don't hesitate to submit them [here](https://forms.gle/qriPNUDmAcWsxTey5).
+
 ## Format
 
 The format is informal, and based on:
