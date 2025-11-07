@@ -46,7 +46,7 @@ The format is informal, and based on:
 
 **Dec 5**
 [Adaptive Neural Quantum States: A Recurrent Neural Network Perspective](https://arxiv.org/abs/2507.18700)
-<br>*Presenter:* Kedir / *Devil's advocate:* Wladi, Noe
+<br>*Presenter:* Kadir / *Devil's advocate:* Wladi, Noe
 
 **Dec 12**
 [Neural Network-Augmented Pfaffian Wave-functions for Scalable Simulations of Interacting Fermions](https://arxiv.org/abs/2507.10705)
