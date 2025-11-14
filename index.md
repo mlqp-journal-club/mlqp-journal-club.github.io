@@ -35,6 +35,7 @@ The format is informal, and based on:
 **Nov 14**
 [Accurate Computation of Quantum Excited States with Neural Networks](https://arxiv.org/abs/2308.16848)
 <br>*Presenter:* Attila / *Devil's advocates:* Adrien, Douglas 
+[**notes**]()
 
 **Nov 21**
 [Variational subspace methods and application to improving variational Monte Carlo dynamics](https://arxiv.org/abs/2507.08930)
