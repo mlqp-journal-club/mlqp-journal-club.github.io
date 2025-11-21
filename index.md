@@ -43,6 +43,7 @@ The format is informal, and based on:
 <br>[**notes**](https://github.com/mlqp-journal-club/mlqp-journal-club.github.io/blob/main/notes/variational_subspace_methods.pdf)
 
 
+
 **Nov 28**
 [Grassmann Variational Monte Carlo with neural wave functions](https://arxiv.org/abs/2507.10287)
 <br>*Presenter:* Douglas
