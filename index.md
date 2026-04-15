@@ -21,6 +21,80 @@ The format is informal, and based on:
 
 ## Current schedule (Winter 2025/26)
 
+**Apr 17**
+[Operator Lanczos Approach enabling Neural Quantum States as Real-Frequency Impurity Solvers](https://arxiv.org/abs/2512.08624)
+<br>*Presenter:* Jonas / *Devil's advocate:* None
+
+**Apr 24**
+[Double descent: When do neural quantum states generalize?](https://arxiv.org/abs/2508.00068)
+<br>*Presenter:* Martina / *Devil's advocate:* Jonas
+
+**May 1**
+*No journal club; Happy Labour Day!*
+
+**May 8**
+[Bound on entanglement in neural quantum states](https://arxiv.org/pdf/2510.11797)
+<br>*Presenter:* Wladi / *Devil's advocate:* Sven
+
+**May 15**
+[Information theoretic scaling laws of NQS](https://arxiv.org/pdf/2603.23468)
+<br>*Presenter:* Paul / *Devil's advocate:* Noe
+
+**May 22**
+[Tensor Network Computations That Capture Strict Variationality, Volume Law Behavior, and the Efficient Representation of Neural Network States](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.260404)
+<br>*Presenter:* Francesca / *Devil's advocate:* ???
+
+**May 29**
+[Operator Quantum State: A Foundation Model for Quantum Dynamics](https://arxiv.org/abs/2603.25066)
+<br>*Presenter:* Ege / *Devil's advocate:* Francesca
+
+**June 5**
+[Autoregressive typical thermal states](https://www.sciencedirect.com/science/article/pii/S0003491626000217)
+<br>*Presenter:* Chunhan / *Devil's advocate:* Attila
+
+**June 12**
+[Biorthogonal Neural Network Approach to 2D Non-Hermitian Systems](https://journals.aps.org/prl/abstract/10.1103/3kk2-3fsj),
+<br>*Presenter:* Massimo / *Devil's advocate:* None
+
+**June 19**
+[Scalable Ground-State Certification of Quantum Spin Systems via Structured Noncommutative Polynomial Optimization](https://arxiv.org/abs/2604.01555)
+<br>*Presenter:* Adrien / *Devil's advocate:* ???
+
+**June 26**
+[Generalization dynamics of linear diffusion models](https://arxiv.org/abs/2505.24769)
+<br>*Presenter:* Sven / *Devil's advocate:* Paul
+
+**July 3**
+[Machine Learning the Operator Content of the Critical Self-Dual Ising-Higgs Gauge Model](https://arxiv.org/pdf/2311.17994)
+<br>*Presenter:* Attila / *Devil's advocate:* Oleksii
+
+**July 10**
+[Distance learning from projective measurements as an information-geometric probe of many-body physics](https://arxiv.org/abs/2603.13485)
+<br>*Presenter:* Oleksii / *Devil's advocate:* None
+
+**July 17**
+[Agentic Exploration of Physics Models](https://arxiv.org/abs/2509.24978)
+<br>*Presenter:* Noe / *Devil's advocate:* Mo
+
+**July 24**
+[Reinforcement Learning Control of Quantum Error Correction](https://arxiv.org/pdf/2511.08493)
+<br>*Presenter:* Mo / *Devil's advocate:* Giovanni
+
+**July 31**
+[RL Perceptron: Generalization Dynamics of Policy Learning in High Dimensions](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021051)
+<br>*Presenter:* Giovanni / *Devil's advocate:* Martina
+
+
+## History
+- [Winter 2025/26](#winter-2025/26)
+- [Summer 2025](#summer-2025)
+- [Winter 2024/25](#winter-2024/25)
+- [Summer 2024](#summer-2024)
+- [Winter 2023/24](#winter-2023/24)
+- [Summer 2023](#summer-2023)
+
+## Winter 2025/26
+
 **Oct 24**
 [Quantum Engineering of Qudits with Interpretable Machine Learning](https://arxiv.org/pdf/2506.13075 )
 <br>*Presenter:* Martina / *Devil's advocate:* Mo, Oleksii
@@ -77,14 +151,6 @@ The format is informal, and based on:
 **Feb 6**
 [Fourier Neural Operators for Time-Periodic Quantum Systems: Learning Floquet Hamiltonians, Observable Dynamics, and Operator Growth](https://arxiv.org/pdf/2509.07084)
 <br>*Presenter:* Noe / *Devil's advocate:* Oleksii
-
-
-## History
-- [Summer 2025](#summer-2025)
-- [Winter 2024/35](#winter-2024/25)
-- [Summer 2024](#summer-2024)
-- [Winter 2023/24](#winter-2023/24)
-- [Summer 2023](#summer-2023)
 
 ## Summer 2025
 
