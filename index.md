@@ -19,7 +19,7 @@ The format is informal, and based on:
     * (parts of) a review/textbook as a tutorial
 
 
-## Current schedule (Winter 2025/26)
+## Current schedule (Summer 2026)
 
 **Apr 17**
 [Operator Lanczos Approach enabling Neural Quantum States as Real-Frequency Impurity Solvers](https://arxiv.org/abs/2512.08624)
