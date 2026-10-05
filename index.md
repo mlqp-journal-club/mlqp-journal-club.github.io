@@ -19,7 +19,83 @@ The format is informal, and based on:
     * (parts of) a review/textbook as a tutorial
 
 
-## Current schedule (Summer 2026)
+## Current schedule (Winter 2026/27)
+
+### Neural quantum states
+
+**Oct 23**
+[Modeling light-matter coupled systems with neural quantum states](https://arxiv.org/abs/2606.14352)
+<br>*Presenter:* Noe / *Devil's advocate:* Mo
+
+**Oct 30**
+[Thermalization Dynamics in the Two-Dimensional Hubbard Model with Neural-Network Quantum States](https://arxiv.org/abs/2606.05293)
+<br>*Presenter:* Ali / *Devil's advocate:* Chunhan
+
+**Nov 6**
+[Essentially No Energy Barrier Between Independent Fermionic Neural Quantum State Minima](https://arxiv.org/abs/2601.06939)
+<br>*Presenter:* Attila / *Devil's advocate:* Ali
+
+**Nov 13**
+[Scaling Laws for Neural-Network Quantum States](https://arxiv.org/abs/2606.02794)
+<br>*Presenter:* Gianpaolo / *Devil's advocate:* Noe
+
+**Nov 20**
+[Superconductivity in the t-t′ Hubbard Model from Symmetry-Preserving Neural-Network Quantum States](https://arxiv.org/abs/2608.12465)
+<br>*Presenter:* Chunhan / *Devil's advocate:* Attila
+
+### Reinforcement learning, feedback, and quantum control
+
+**Nov 27**
+[Experiment-compatible measurement–feedback quantum state preparation with reinforcement learning](https://arxiv.org/abs/2606.13005)
+<br>*Presenter:* Giovanni / *Devil's advocate:* Moksh
+
+**Dec 4**
+[Critical States Preparation With Deep Reinforcement Learning](https://arxiv.org/abs/2603.09135)
+<br>*Presenter:* Moksh / *Devil's advocate:* Gianpaolo
+
+**Dec 11**
+[Continuous Quantum Feedback Control via Kraus-Parameterized Belief Reinforcement Learning](https://arxiv.org/abs/2608.15715)
+<br>*Presenter:* Mo / *Devil's advocate:* Oleksii
+
+### General machine learning for quantum many-body physics
+
+**Dec 18**
+[Multipole splats for optimized and inverted effective potentials](https://arxiv.org/abs/2609.09280)
+<br>*Presenter:* Matija / *Devil's advocate:* Martina (provisional)
+
+### Tutorials
+
+**Jan 15**
+Tutorial 1: Agentic AI fundamentals
+<br>*Presenter:* Jonas
+
+**Jan 22**
+Tutorial 2: A deep dive into Claude Code
+<br>*Presenter:* Giovanni
+
+### General machine learning for quantum many-body physics (continued)
+
+**Jan 29**
+[Normalizing flows for all-orders QED corrections in lattice field theory](https://arxiv.org/abs/2605.22444)
+<br>*Presenter:* Martina / *Devil's advocate:* Matija
+
+### Quantum error correction
+
+**Feb 5**
+[Optimal Decoding for Measurement-Based GHZ State Preparation: The Maximum-Utility Decoder](https://arxiv.org/abs/2608.00160)
+<br>*Presenter:* Oleksii / *Devil's advocate:* Giovanni
+
+## History
+
+- [Summer 2026](#summer-2026)
+- [Winter 2025/26](#winter-2025/26)
+- [Summer 2025](#summer-2025)
+- [Winter 2024/25](#winter-2024/25)
+- [Summer 2024](#summer-2024)
+- [Winter 2023/24](#winter-2023/24)
+- [Summer 2023](#summer-2023)
+
+## Summer 2026
 
 **Apr 17**
 [Operator Lanczos Approach enabling Neural Quantum States as Real-Frequency Impurity Solvers](https://arxiv.org/abs/2512.08624)
@@ -84,14 +160,6 @@ The format is informal, and based on:
 [RL Perceptron: Generalization Dynamics of Policy Learning in High Dimensions](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021051)
 <br>*Presenter:* Giovanni / *Devil's advocate:* Martina
 
-
-## History
-- [Winter 2025/26](#winter-2025/26)
-- [Summer 2025](#summer-2025)
-- [Winter 2024/25](#winter-2024/25)
-- [Summer 2024](#summer-2024)
-- [Winter 2023/24](#winter-2023/24)
-- [Summer 2023](#summer-2023)
 
 ## Winter 2025/26
 
