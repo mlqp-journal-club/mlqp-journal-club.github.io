@@ -46,16 +46,16 @@ The format is informal, and based on:
 ### Reinforcement learning, feedback, and quantum control
 
 **Nov 27**
-[Experiment-compatible measurement–feedback quantum state preparation with reinforcement learning](https://arxiv.org/abs/2606.13005)
-<br>*Presenter:* Giovanni / *Devil's advocate:* Moksh
+[Critical States Preparation With Deep Reinforcement Learning](https://arxiv.org/abs/2603.09135)
+<br>*Presenter:* Giovanni / *Devil's advocate:* Matija
 
 **Dec 4**
-[Critical States Preparation With Deep Reinforcement Learning](https://arxiv.org/abs/2603.09135)
-<br>*Presenter:* Moksh / *Devil's advocate:* Gianpaolo
+[Continuous Quantum Feedback Control via Kraus-Parameterized Belief Reinforcement Learning](https://arxiv.org/abs/2608.15715)
+<br>*Presenter:* Mo / *Devil's advocate:* Gianpaolo
 
 **Dec 11**
-[Continuous Quantum Feedback Control via Kraus-Parameterized Belief Reinforcement Learning](https://arxiv.org/abs/2608.15715)
-<br>*Presenter:* Mo / *Devil's advocate:* Oleksii
+[Experiment-compatible measurement–feedback quantum state preparation with reinforcement learning](https://arxiv.org/abs/2606.13005)
+<br>*Presenter:* Moksh / *Devil's advocate:* Giovanni
 
 ### General machine learning for quantum many-body physics
 
@@ -77,13 +77,13 @@ Tutorial 2: A deep dive into Claude Code
 
 **Jan 29**
 [Normalizing flows for all-orders QED corrections in lattice field theory](https://arxiv.org/abs/2605.22444)
-<br>*Presenter:* Martina / *Devil's advocate:* Matija
+<br>*Presenter:* Martina / *Devil's advocate:* Oleksii
 
 ### Quantum error correction
 
 **Feb 5**
 [Optimal Decoding for Measurement-Based GHZ State Preparation: The Maximum-Utility Decoder](https://arxiv.org/abs/2608.00160)
-<br>*Presenter:* Oleksii / *Devil's advocate:* Giovanni
+<br>*Presenter:* Oleksii / *Devil's advocate:* Moksh
 
 ## History
 
